@@ -12,8 +12,8 @@ I have $500 to invest. It costs me $10 per trade. How long will I have to keep m
 * distribution between multiple stocks.
 
 ## It should be built with
-* Python for the backend API
-* Polymer for the frontend
-* Highcharts for the charting
+* Polymer for Frontend
+  * [Quandl](http://www.quandl.com/help/api-for-stock-data) for stock prices
+  * Highcharts for the charting
 
 
